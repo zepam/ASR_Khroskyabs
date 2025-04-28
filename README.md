@@ -1,5 +1,5 @@
 # Centering Community in Language Preservation - Building Speech Transcription for Khroskyabs
-
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15298827.svg">
 ## Abstract
 Automatic Speech Recognition can be a valuable tool for work in preserving Endangered Languages. Members of a village on the Tibetan Plateau where the endangered language Khroskyabs is spoken have been working with a linguist from their community on language preservation efforts. Machine Learning and Artificial Intelligence tools can support language preservation. When the preservation work is done by those outside the community, they must use the technology with great care to maintain the respect that the community and language deserve. In this project, we demonstrate an example of how to prioritize an ethical framework to allow linguists to accomplish language preservation goals.
 
